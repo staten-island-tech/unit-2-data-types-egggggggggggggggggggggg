@@ -1,6 +1,6 @@
-num=input("Number: ")
 
-if (num%2) == 0: 
-    print("even")
-else : print("odd")
 
+
+x = 3
+y = float(3)
+print(x,y)
