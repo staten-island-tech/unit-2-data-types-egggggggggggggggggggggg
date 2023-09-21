@@ -1,5 +1,5 @@
 num1 = input("Number: ")
 
-print(num1)
+print(num1) 
 
-
+ 
