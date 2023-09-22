@@ -1,20 +1,16 @@
-bill=int(input("Bill : "))
-tip=str(input("Service: ")) 
+num = int(input("NUMBER : "))
 
-dict = {
-    'bad': '1.00',
-    'okay':'1.15',
-    'good':'1.20',
-    'excellent': '1.25'
-}
+def factor(x):
+    print("The factors of ",x," are")
+    for i in range(1, x):
+        if x % 1 
+            print
 
-total = tip * bill 
+factors = factor(num)
 
-#bill times tips= total
+print(factors) 
 
 
 
-
-print(total) 
-
+   #rint len(() )``
 

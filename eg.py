@@ -1,2 +1,5 @@
-egg = 10 
-print(egg)
+num=input("Number: ")
+
+if (num /  2) == 0: 
+    print("even")
+else : print("odd")
