@@ -15,13 +15,14 @@ go=("good")
 x=input("Service:")
 
 
+
 if x == ge:
     total = bill * 1.25
-if x == bad:
+elif x == bad:
     total = bill * 1.00
-if x == oka:
+elif x == oka:
     total = bill * 1.15
-if x == go:
+elif x == go:
     total = bill * 1.20
 
 
