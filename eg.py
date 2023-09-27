@@ -28,3 +28,12 @@ elif x == go:
 
 print(f"${total}")
 
+
+
+westbound=bool
+southbound=bool 
+
+def traffic(): 
+    if westbound==True:
+        if southbound==True:
+            print = "Traffic=No Cross" 
