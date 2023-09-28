@@ -12,3 +12,4 @@ print(f"The Greatest Common Factor of {num} and {num2} is " + str(gcf(num, num2)
 
 
 
+
