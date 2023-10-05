@@ -1,3 +1,6 @@
+#GCF
+
+
 num = int(input("NUMBER 1: "))
 num2 = int(input("NUMBER 2 : "))
 
@@ -7,6 +10,9 @@ def gcf(x, y):
     return x
 
 print(f"The Greatest Common Factor of {num} and {num2} is " + str(gcf(num, num2)))
+
+
+#Tips
 
 total = int(input("Total? "))
 service = str(input("Rate the Service? "))
